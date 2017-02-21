@@ -1,6 +1,8 @@
 # Chase
 
-Adapted sources of demo NES game 'Chase'
+Adapted sources of demo NES game 'Chase':
+
+![chase.nes](https://cloud.githubusercontent.com/assets/822988/23152972/9d11e512-f7ba-11e6-9143-f88343cd9237.png)
 
 # How to run?
 
